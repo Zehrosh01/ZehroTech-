@@ -92,14 +92,14 @@ const Footer = () => {
             </p> */}
             <p className="text-gray-text text-sm">
                 <span className="text-neon-blue">Email:</span>
-                <a href="mailto:contact@zehrotech.ai" className="hover:text-neon-green ml-1">
+                <a href="mailto:zehrotech@outlook.com" className="hover:text-neon-green ml-1">
                     zehrotech@outlook.com
                 </a>
             </p>
 
             <p className="text-gray-text text-sm mt-2">
                 <span className="text-neon-blue">Phone:</span>
-                <a href="tel:+919876543210" className="hover:text-neon-green ml-1">
+                <a href="tel:+919168597707" className="hover:text-neon-green ml-1">
                     +91 9168597707
                 </a>
             </p>
