@@ -491,6 +491,7 @@ const Home = () => {
                   placeholder="+91 XXXXX XXXXX"
                   value={formData.phone}
                   onChange={handleInputChange}
+                  required
                   disabled={isSubmitting}
                 />
                 <Textarea
